@@ -25,8 +25,8 @@ Then run the executable that has been created.
 ## Demo
 
 ## Teammates who worked on this project 
-Lim Shufen
-Tan Zhiyu
-Celine Ang
-Goh Jun Jie
-Koh Huan Yin
+- Lim Shufen
+- Tan Zhiyu
+- Celine Ang
+- Goh Jun Jie
+- Koh Huan Yin
